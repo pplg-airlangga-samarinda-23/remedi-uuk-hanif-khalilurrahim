@@ -1,0 +1,50 @@
+body {
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 213, 135);
+    margin: 20px auto;
+    border: solid;
+}
+
+.a h1{
+    text-align: center;
+}
+
+.b{
+    padding: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    left: 34%;
+    max-width: 20%;
+    margin-left: 5%;
+}
+main{
+    margin: 20px auto;
+    border: solid;
+}
+footer {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 213, 135);
+    margin: 20px auto;
+    border: solid;
+}
+.pp img {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    left: -20px;
+    border-radius: 50%;
+}
+
+form {
+    margin-left: 40%;
+}
